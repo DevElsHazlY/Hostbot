@@ -1,6 +1,5 @@
-os
-subprocess
-asyncio
-logging
-time
+apscheduler
+requests
+flask
+python-telegram-bot
 telebot
