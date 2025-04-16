@@ -11,10 +11,10 @@ from telegram.ext import (
 )
 
 # إعدادات البوت
-TOKEN = "7702849773:AAGCjm804HsmISojzBamKUtGjOzVODhDKAw"  # لا تزيله
-ADMIN_ID = 7435809888  # لا تزيله
+TOKEN = "Your Bot Token"  
+ADMIN_ID = 123456789  
 
-TEMP_FILE = "test.py"
+TEMP_FILE = "Temp.py"
 PROCESS = None
 BLOCKED_USERS = set()
 USER_MESSAGES = {}
